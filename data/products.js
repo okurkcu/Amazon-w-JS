@@ -15,6 +15,21 @@ const products = [
     ]
   },
   {
+    id: "id1",
+    image: "images/products/backpack.jpg",
+    name: "Backpack - 1",
+    rating: {
+      stars: 4.5,
+      count: 712
+    },
+    priceCents: 3099,
+    keywords: [
+      "backpack",
+      "sports",
+      "school"
+    ]
+  },
+  {
     id: "15b6fc6f-327a-4ec4-896f-486349e85a3d",
     image: "images/products/intermediate-composite-basketball.jpg",
     name: "Intermediate Size Basketball",
